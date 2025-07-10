@@ -70,7 +70,7 @@ const baseConfig = {
     READ_COMMAND: convertToBool(process.env.READ_COMMAND) || true,
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
     RG: process.env.RG || '919074309534-1632403322@g.us,120363116963909366@g.us',
-    BOT_INFO: process.env.BOT_INFO || '𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭;★ σвιтσ-кυη ★;default',
+    BOT_INFO: process.env.BOT_INFO || '𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭;★ σвιтσ-кυη ★;https://cdn.ironman.my.id/i/sdhlnw.jpg',
     RBG_KEY: process.env.RBG_KEY || '',
     ALLOWED: process.env.ALLOWED || '91,94,2',
     NOT_ALLOWED: process.env.NOT_ALLOWED || '852',
